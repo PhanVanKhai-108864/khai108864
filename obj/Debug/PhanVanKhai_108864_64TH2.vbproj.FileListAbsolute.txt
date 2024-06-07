@@ -1,0 +1,602 @@
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.trangchu.resources
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\source\repos\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbprojResolveAssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbprojResolveAssemblyReference.cache
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.Cache
+C:\Users\doanc\OneDrive\Desktop\PhanVanKhai_108864_64TH2\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\PhanVanKhai_108864_64TH2 (1)\obj\Debug\PhanVanKhai_108864_64TH2.FormChuThich.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2\obj\Debug\PhanVanKhai_108864_64TH2.FormChuThich.resources
+C:\Users\84968\Documents\Zalo Received Files\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\84968\Documents\Zalo Received Files\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\84968\Documents\Zalo Received Files\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\84968\Documents\Zalo Received Files\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\Interop.VDProLib5.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\Interop.VDProLib5.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.ResolveComReference.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormChuThich.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanK.507A54FC.Up2Date
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\dinhd\Desktop\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.exe.config
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\Interop.VDProLib5.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.ResolveComReference.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.exe
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.pdb
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\PhanVanKhai_108864_64TH2.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\Interop.VDProLib5.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.AssemblyReference.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormChuThich.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormThemcot.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormTietDien.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormBanVe.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.Formgioithieu.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormTinhToan.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.FormVatLieu.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.Resources.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.TrangChu.resources
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.GenerateResource.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.exe.licenses
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanKhai_108864_64TH2.vbproj.CoreCompileInputs.cache
+C:\Users\nucep\OneDrive\Desktop\do an TN\Tin\PhanVanKhai_108864_64TH2_DOT2_K64\PhanVanKhai_108864_64TH2_DOT2_K64\obj\Debug\PhanVanK.507A54FC.Up2Date

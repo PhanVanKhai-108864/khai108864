@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|c:\\users\\nucep\\onedrive\\desktop\\do an tn\\tin\\phanvankhai_108864_64th2_dot2_k64\\phanvankhai_108864_64th2_dot2_k64\\form\\formthemcot.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formthemcot.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|c:\\users\\nucep\\onedrive\\desktop\\do an tn\\tin\\phanvankhai_108864_64th2_dot2_k64\\phanvankhai_108864_64th2_dot2_k64\\clstinhtoan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:clstinhtoan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|c:\\users\\nucep\\onedrive\\desktop\\do an tn\\tin\\phanvankhai_108864_64th2_dot2_k64\\phanvankhai_108864_64th2_dot2_k64\\form\\formtietdien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formtietdien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\form\\formtietdien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formtietdien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|c:\\users\\nucep\\onedrive\\desktop\\do an tn\\tin\\phanvankhai_108864_64th2_dot2_k64\\phanvankhai_108864_64th2_dot2_k64\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\form\\formthemcot.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formthemcot.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|c:\\users\\nucep\\onedrive\\desktop\\do an tn\\tin\\phanvankhai_108864_64th2_dot2_k64\\phanvankhai_108864_64th2_dot2_k64\\form\\formtinhtoan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formtinhtoan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\form\\formbanve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formbanve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\form\\formbanve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formbanve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\form\\formtinhtoan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}|PhanVanKhai_108864_64TH2.vbproj|solutionrelative:form\\formtinhtoan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTietDien.vb",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTietDien.vb",
+              "RelativeDocumentMoniker": "Form\\FormTietDien.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTietDien.vb",
+              "RelativeToolTip": "Form\\FormTietDien.vb",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T15:19:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsTinhToan.vb",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\ClsTinhToan.vb",
+              "RelativeDocumentMoniker": "ClsTinhToan.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\ClsTinhToan.vb",
+              "RelativeToolTip": "ClsTinhToan.vb",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAewFsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T15:19:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T15:19:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormThemcot.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormThemcot.vb",
+              "RelativeDocumentMoniker": "Form\\FormThemcot.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormThemcot.vb [Design]*",
+              "RelativeToolTip": "Form\\FormThemcot.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T15:18:21.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTietDien.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTietDien.vb",
+              "RelativeDocumentMoniker": "Form\\FormTietDien.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTietDien.vb [Design]",
+              "RelativeToolTip": "Form\\FormTietDien.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T15:06:08.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBanVe.vb",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormBanVe.vb",
+              "RelativeDocumentMoniker": "Form\\FormBanVe.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormBanVe.vb",
+              "RelativeToolTip": "Form\\FormBanVe.vb",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T14:27:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBanVe.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormBanVe.vb",
+              "RelativeDocumentMoniker": "Form\\FormBanVe.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormBanVe.vb [Design]",
+              "RelativeToolTip": "Form\\FormBanVe.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T14:27:20.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormThemcot.vb",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormThemcot.vb",
+              "RelativeDocumentMoniker": "Form\\FormThemcot.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormThemcot.vb*",
+              "RelativeToolTip": "Form\\FormThemcot.vb*",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T14:21:55.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTinhToan.vb",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTinhToan.vb",
+              "RelativeDocumentMoniker": "Form\\FormTinhToan.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTinhToan.vb",
+              "RelativeToolTip": "Form\\FormTinhToan.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T13:57:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormTinhToan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTinhToan.vb",
+              "RelativeDocumentMoniker": "Form\\FormTinhToan.vb",
+              "ToolTip": "C:\\Users\\nucep\\OneDrive\\Desktop\\do an TN\\Tin\\PhanVanKhai_108864_64TH2_DOT2_K64\\PhanVanKhai_108864_64TH2_DOT2_K64\\Form\\FormTinhToan.vb [Design]",
+              "RelativeToolTip": "Form\\FormTinhToan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T15:06:12.328Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

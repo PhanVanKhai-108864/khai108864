@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PhanVanKhai_108864_64TH2
+</name>
+</assembly>
+<members>
+<member name="T:PhanVanKhai_108864_64TH2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.aa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.bo_address">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.bo_address1">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.bo_employee">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.column">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.export">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_calculator_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_calculator_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_design_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_dwg_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_dwg_241">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_dwg_242">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_microsoft_excel_2019_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_microsoft_excel_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.icons8_steel_i_beam_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.needassistance">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.Picture1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.play">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.Screenshot_2020_12_22_112839">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.Screenshot_2020_12_22_134144">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.Screenshot_2024_04_15_143957">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.sortasc">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.tải_xuống__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.travel_hotel">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:PhanVanKhai_108864_64TH2.My.Resources.Resources.vatlieudam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

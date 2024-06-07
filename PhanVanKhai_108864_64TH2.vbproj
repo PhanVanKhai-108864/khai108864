@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA4DC282-07ED-4EC1-9B65-936B395CC8C8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PhanVanKhai_108864_64TH2.My.MyApplication</StartupObject>
+    <RootNamespace>PhanVanKhai_108864_64TH2</RootNamespace>
+    <AssemblyName>PhanVanKhai_108864_64TH2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PhanVanKhai_108864_64TH2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PhanVanKhai_108864_64TH2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clscot.vb" />
+    <Compile Include="ClsCotThep.vb" />
+    <Compile Include="FormChuThich.Designer.vb">
+      <DependentUpon>FormChuThich.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormChuThich.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TinhHeSo.vb" />
+    <Compile Include="ClsTinhToan.vb" />
+    <Compile Include="clsVatLieu.vb" />
+    <Compile Include="Form\FormThemcot.Designer.vb">
+      <DependentUpon>FormThemcot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormThemcot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormTietDien.Designer.vb">
+      <DependentUpon>FormTietDien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormTietDien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormBanVe.Designer.vb">
+      <DependentUpon>FormBanVe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormBanVe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormTinhToan.Designer.vb">
+      <DependentUpon>FormTinhToan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormTinhToan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormVatLieu.Designer.vb">
+      <DependentUpon>FormVatLieu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormVatLieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Formgioithieu.Designer.vb">
+      <DependentUpon>Formgioithieu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Formgioithieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TrangChu.Designer.vb">
+      <DependentUpon>TrangChu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormChuThich.resx">
+      <DependentUpon>FormChuThich.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormThemcot.resx">
+      <DependentUpon>FormThemcot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormTietDien.resx">
+      <DependentUpon>FormTietDien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormBanVe.resx">
+      <DependentUpon>FormBanVe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Formgioithieu.resx">
+      <DependentUpon>Formgioithieu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormTinhToan.resx">
+      <DependentUpon>FormTinhToan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormVatLieu.resx">
+      <DependentUpon>FormVatLieu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\column.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo_address.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo_employee.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sortasc.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel_hotel.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calculator-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-dwg-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-dwg-241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-microsoft-excel-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-dwg-242.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-04-15 143957.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo_address1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calculator-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vatlieudam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-steel-i-beam-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-design-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-12-22 112839.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-12-22 134144.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\needassistance.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxVDProLib5">
+      <Guid>{68C2910D-885A-4B9D-BA07-ABFE0563A8E9}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VDProLib5">
+      <Guid>{68C2910D-885A-4B9D-BA07-ABFE0563A8E9}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
